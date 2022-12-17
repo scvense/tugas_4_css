@@ -1,0 +1,10 @@
+.judul {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+button {
+    color: rgb(204, 156, 67) !important; 
+    font-size: 30px; 
+    
+}
